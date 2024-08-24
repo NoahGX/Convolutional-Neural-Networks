@@ -25,4 +25,4 @@ Outputs are processed matrices showcasing the results of each CNN operation, suc
 
 ## Notes
  - Ensure that numpy is installed and up-to-date to avoid any compatibility issues.
-- This notebook only covers the basics; modify the code, adjust configurations and parameters as necessary to test different configurations or CNN architectures.
+- This notebook is basic in order to demonstrate the workings of convolutional neural networks and requires modifications for production use.
